@@ -562,7 +562,7 @@
     <!-- Testimonial End -->
 
 
-    <?php include_once("./includes/footers.php"); ?>
+    <?php include("./includes/footers.php"); ?>
 </body>
 
 </html>
